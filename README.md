@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Um projeto maneirão, desenvolvido por conta desse [vídeo](https://www.youtube.com/watch?v=cOUNOi297Mw&list=PLNCevxogE3fgy0pAzVccadWKaQp9iHspz&index=1') do [Coding Artist](https://www.youtube.com/@CodingArtist)
+
 Dê uma olhada no projeto clicando nesse [link](https://matheusfdosan.github.io/to-do-list/).
 
 ## Contato
